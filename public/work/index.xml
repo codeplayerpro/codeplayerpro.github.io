@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on My New Hugo Site</title>
+    <link>https://codeplayerpro.github.io/work/</link>
+    <description>Recent content in Works on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2023 16:46:32 +0800</lastBuildDate><atom:link href="https://codeplayerpro.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ios</title>
+      <link>https://codeplayerpro.github.io/work/ios/</link>
+      <pubDate>Mon, 09 Oct 2023 16:46:32 +0800</pubDate>
+      
+      <guid>https://codeplayerpro.github.io/work/ios/</guid>
+      
+        <description>this is a test file</description>
+      
+    </item>
+    
+  </channel>
+</rss>
