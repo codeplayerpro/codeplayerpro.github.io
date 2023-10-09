@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>https://example.org/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 09 Oct 2023 17:49:35 &#43;0800</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>All Posts - Work for life</title>
+        <link>https://codeplayerpro.github.io/posts/</link>
+        <description>All Posts | Work for life</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 09 Oct 2023 17:49:35 &#43;0800</lastBuildDate><atom:link href="https://codeplayerpro.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First Md</title>
-    <link>https://example.org/posts/first-md/</link>
+    <link>https://codeplayerpro.github.io/posts/first-md/</link>
     <pubDate>Mon, 09 Oct 2023 17:49:35 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://example.org/posts/first-md/</guid>
+    <guid>https://codeplayerpro.github.io/posts/first-md/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>My First Post</title>
-    <link>https://example.org/posts/my-first-post/</link>
+    <link>https://codeplayerpro.github.io/posts/my-first-post/</link>
     <pubDate>Mon, 09 Oct 2023 17:44:01 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://example.org/posts/my-first-post/</guid>
+    <guid>https://codeplayerpro.github.io/posts/my-first-post/</guid>
     <description><![CDATA[this is a test post hello world]]></description>
 </item>
 </channel>
