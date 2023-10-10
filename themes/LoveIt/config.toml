@@ -175,7 +175,7 @@
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "https://up.enterdesk.com/edpic_source/56/51/c0/5651c08bdb088ba8102b279518b57574.jpg"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
@@ -206,7 +206,7 @@
     Twitter = ""
     Instagram = ""
     Facebook = ""
-    Telegram = ""
+    Telegram = "nimingouke"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -262,7 +262,7 @@
     Gitea = ""
     XMPP = ""
     Matrix = ""
-    Bilibili = ""
+    Bilibili = "162633159"
     Discord = ""
     DiscordInvite = ""
     Lichess = ""
