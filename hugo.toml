@@ -45,7 +45,9 @@ hasCJKLanguage = true
     name = "分类"
     url = "/categories/"
     title = ""
-
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 # Hugo 解析文档的配置
 [markup]
   # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
